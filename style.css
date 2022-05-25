@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Nunito:wght@500&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    /* font-family: 'Macondo', cursive; */
+    font-family: 'Nunito', sans-serif;
+}
+
+.table {
+
+    border: 5px;
+    border-color: red;
+    border-style: dashed;
+    padding: 10px;
+}
